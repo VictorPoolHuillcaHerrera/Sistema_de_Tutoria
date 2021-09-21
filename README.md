@@ -32,11 +32,11 @@
 ---
 ## Autores ✒️
 * **Diego Alonso Dorado Torres - 170594** - [DiegoAlonso001](https://github.com/DiegoAlonso001)
-* **Bryan Huillca Mozo - 174442** - [BryanHuillcaMozo](https://github.com/BryanHuillcaMozo)
+* **Bryan Huillca Mozo - 160329** - [BryanHuillcaMozo](https://github.com/BryanHuillcaMozo)
 * **Victor Pool Huillca Herrera - 163845** - [VictorPoolHuillcaHerrera](https://github.com/VictorPoolHuillcaHerrera)
-* **Wily Muñoz Muñoz  - 171915** - [WIL1707](https://github.com/WIL1707)
-* **Enit Muñoz Pacheco - 171915** - [enit-mup](https://github.com/enit-mup)
-* **Luiyi Antony Quispe Palomino - 174447** - [blablabla115](https://github.com/blablabla115)
-* **Briggitte Ugarte Castillo - 171805** - [briluc](https://github.com/briluc)
+* **Wily Muñoz Muñoz  - 161369** - [WIL1707](https://github.com/WIL1707)
+* **Enit Muñoz Pacheco - 161727** - [enit-mup](https://github.com/enit-mup)
+* **Luiyi Antony Quispe Palomino - 174914** - [blablabla115](https://github.com/blablabla115)
+* **Briggitte Ugarte Castillo - 174455** - [briluc](https://github.com/briluc)
 ---
 ⌨️ con ❤️ por [VictorPoolHuillcaHerrera](https://github.com/VictorPoolHuillcaHerrera) 😊
