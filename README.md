@@ -31,7 +31,7 @@
 
 ---
 ## Autores ✒️
-* **Diego Alonso Dorado Torres - 170594** - [DiegoAlonso001](https://github.com/DiegoAlonso001)
+
 * **Bryan Huillca Mozo - 160329** - [BryanHuillcaMozo](https://github.com/BryanHuillcaMozo)
 * **Victor Pool Huillca Herrera - 163845** - [VictorPoolHuillcaHerrera](https://github.com/VictorPoolHuillcaHerrera)
 * **Wily Muñoz Muñoz  - 161369** - [WIL1707](https://github.com/WIL1707)
