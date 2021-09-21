@@ -2,7 +2,7 @@
 # Proyecto - Sistema de Tutorías
 - **Universidad Nacional de San Antonio Abad del Cusco**
 - **Escuela Profesional de Ingenieria Informatica y de Sistemas**
-- **Ing. de Software I - Grupo 5**
+- **Ing. de Software I - Grupo 2**
 #### Docente:
 - **Quintanilla Portugal Roxana Lisette** - [Concytec](http://directorio.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=40930).
 ---
@@ -21,23 +21,22 @@
 ### Distribución de Tareas 📈
 | Área | Encargado |
 | ------------- | ------------- |
-| Backend - Docentes  | Mileydi |
-| Backend - Alumnos | Angie |
-| Backend - Login | Alexander, Pool |
-| Frontend - Docentes  | Mileydi |
-| Frontend - Alumnos | Jeremyk |
-| Frontend - Login | Carlos |
-| Base de Datos | Diego |
+| Backend - Docentes  | Pool |
+| Backend - Alumnos | Dorado |
+| Backend - Login | Enit |
+| Frontend - Docentes  | Briggitte |
+| Frontend - Alumnos | Wily |
+| Frontend - Login | Luiyi |
+| Base de Datos | Brayan |
 
 ---
 ## Autores ✒️
 * **Diego Alonso Dorado Torres - 170594** - [DiegoAlonso001](https://github.com/DiegoAlonso001)
-* **Angie Escobedo Mescco - 174442** - [AngieEM](https://github.com/AnnieLoli)
-* **Alexander Javier Huaman Guevara - 150394** - [alexanderhg222](https://github.com/alexanderhg222)
+* **Bryan Huillca Mozo - 174442** - [BryanHuillcaMozo](https://github.com/BryanHuillcaMozo)
 * **Victor Pool Huillca Herrera - 163845** - [VictorPoolHuillcaHerrera](https://github.com/VictorPoolHuillcaHerrera)
-* **Mileydy Ninantay Diaz - 171915** - [mile1107](https://github.com/mile1107)
-* **Carlos Enrique Quispe Chambilla - 174447** - [Carlinpe](https://github.com/Carlinpe)
-* **Claudia Luz Rojas Soto - 171805** - [Claudiars20](https://github.com/Claudiars20)
-* **Jeremyk Rufino Vargas Arqque - 155183** - [jeremva3](https://github.com/jeremva3)
+* **Wily Muñoz Muñoz  - 171915** - [WIL1707](https://github.com/WIL1707)
+* **Enit Muñoz Pacheco - 171915** - [enit-mup](https://github.com/enit-mup)
+* **Luiyi Antony Quispe Palomino - 174447** - [blablabla115](https://github.com/blablabla115)
+* **Briggitte Ugarte Castillo - 171805** - [briluc](https://github.com/briluc)
 ---
-⌨️ con ❤️ por [Claudiars20](https://github.com/Claudiars20) 😊
+⌨️ con ❤️ por [VictorPoolHuillcaHerrera](https://github.com/VictorPoolHuillcaHerrera) 😊
