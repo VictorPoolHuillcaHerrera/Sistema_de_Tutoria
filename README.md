@@ -26,7 +26,7 @@
 | Backend - Alumnos | Dorado |
 | Backend - Login | Enit |
 | Frontend - Docentes  | Briggitte |
-| Frontend - Alumnos | Wily |
+| Frontend - Alumnos |  |
 | Frontend - Login | Luiyi |
 | Base de Datos | Brayan |
 
